@@ -1,0 +1,15 @@
+G:\Visual Studio\Finally\Finally\bin\Debug\net6.0\Finally.exe
+G:\Visual Studio\Finally\Finally\bin\Debug\net6.0\Finally.deps.json
+G:\Visual Studio\Finally\Finally\bin\Debug\net6.0\Finally.runtimeconfig.json
+G:\Visual Studio\Finally\Finally\bin\Debug\net6.0\Finally.dll
+G:\Visual Studio\Finally\Finally\bin\Debug\net6.0\ref\Finally.dll
+G:\Visual Studio\Finally\Finally\bin\Debug\net6.0\Finally.pdb
+G:\Visual Studio\Finally\Finally\obj\Debug\net6.0\Finally.csproj.AssemblyReference.cache
+G:\Visual Studio\Finally\Finally\obj\Debug\net6.0\Finally.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Studio\Finally\Finally\obj\Debug\net6.0\Finally.AssemblyInfoInputs.cache
+G:\Visual Studio\Finally\Finally\obj\Debug\net6.0\Finally.AssemblyInfo.cs
+G:\Visual Studio\Finally\Finally\obj\Debug\net6.0\Finally.csproj.CoreCompileInputs.cache
+G:\Visual Studio\Finally\Finally\obj\Debug\net6.0\Finally.dll
+G:\Visual Studio\Finally\Finally\obj\Debug\net6.0\ref\Finally.dll
+G:\Visual Studio\Finally\Finally\obj\Debug\net6.0\Finally.pdb
+G:\Visual Studio\Finally\Finally\obj\Debug\net6.0\Finally.genruntimeconfig.cache
